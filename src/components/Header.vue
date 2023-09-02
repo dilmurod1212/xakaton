@@ -61,27 +61,30 @@
     </template>
   </Modal>
   <!-- modal end -->
-  <div
-    class="flex justify-between items-center py-4 relative container bg-white"
-  >
-    <div class="flex items-center gap-3">
-      <LanguageSwitcher />
-      <a href="tel:+998 88 500 50 00"
-        ><i class="fas fa-phone"></i> +998 88 500 50 00</a
-      >
-    </div>
-    <div class="logo w-40 absolute top-4 left-[50%] translate-x-[-50%]">
-      <a href="#"
-        ><img src="src\assets\images\Frame 427319431logoo.svg" alt="logo"
-      /></a>
-    </div>
-    <div class="logOut">
-      <a
-        href="#"
-        @click="showModal"
-        class="px-4 py-2 bg-gray-300 font-bold rounded-md"
-        >Войти<i class="fa-solid fa-right-to-bracket"></i
-      ></a>
+  <div class="bg-white">
+    <div
+      class="flex justify-between items-center py-4 relative container max-md:container"
+    >
+      <div class="flex items-center gap-3">
+        <LanguageSwitcher />
+        <a href="tel:+998 88 500 50 00" class="max-md:hidden"
+          ><i class="fas fa-phone"></i> +998 88 500 50 00</a
+        >
+      </div>
+      <div class="logo w-40 absolute top-4 left-[50%] translate-x-[-50%]">
+        <a href="#"
+          ><img src="src\assets\images\Frame 427319431logoo.svg" alt="logo"
+        /></a>
+      </div>
+      <div class="logOut">
+        <a
+          href="#"
+          @click="showModal"
+          class="px-4 py-2 flex gap-2 items-center bg-gray-300 font-bold rounded-md"
+          ><span class="max-md:hidden">Войти</span
+          ><i class="fa-solid fa-right-to-bracket"></i
+        ></a>
+      </div>
     </div>
   </div>
 </template>
