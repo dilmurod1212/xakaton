@@ -73,7 +73,7 @@
       </div>
       <div class="logo w-40 absolute top-4 left-[50%] translate-x-[-50%]">
         <a href="#"
-          ><img src="src\assets\images\Frame 427319431logoo.svg" alt="logo"
+          ><img src="../assets/images/Frame427319431logoo.svg" alt="logo"
         /></a>
       </div>
       <div class="logOut">

@@ -10,7 +10,7 @@
       <div
         class="icon absolute rounded-lg flex items-center justify-center p-2 border border-gray-400 left-[-5%] bg-white"
       >
-        <img src="src\assets\images\Vectormale.svg" alt="male-icon" class="" />
+        <img src="../assets/images/Vectormale.svg" alt="male-icon" class="" />
       </div>
       <div class="flex justify-between items-center">
         <div class="category__info pl-8">
@@ -26,7 +26,9 @@
 <script setup>
 import Title from "./Title.vue";
 import { ref } from "vue";
-const descr = ref("Вы можете найти все категории, которые вам нужны от покупателя");
+const descr = ref(
+  "Вы можете найти все категории, которые вам нужны от покупателя"
+);
 </script>
 
 <style lang="scss" scoped>
