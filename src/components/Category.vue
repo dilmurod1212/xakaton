@@ -9,7 +9,7 @@
     >
       <div class="">
         <img
-          src="@/assets/images/category-icons/Component 1 (20).svg"
+          src="@/assets/images/category-icons/Component1(20).svg"
           alt="male-icon"
           class="icon absolute rounded-lg flex items-center justify-center p-2 border border-gray-400 bg-white left-0 translate-x-[-50%] top-[50%] translate-y-[-50%]"
         />
