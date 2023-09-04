@@ -35,7 +35,7 @@
       >
         <p class="max-md:text-xs">© 77.uz 2023. Все права защищены</p>
         <a href="https://uic.group" target="_blank"
-          ><img src="../assets/images/Frame 20308logo.svg" alt="uic-logo"
+          ><img src="../assets/images/Frame 20308.png" alt="uic-logo"
         /></a>
       </div>
     </div>
