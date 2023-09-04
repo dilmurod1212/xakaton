@@ -4,6 +4,7 @@
     <SearchPanel />
     <Category />
     <Cards />
+    <Footer />
   </div>
 </template>
 
@@ -12,7 +13,7 @@ import Header from "./components/Header.vue";
 import Category from "./components/Category.vue";
 import Cards from "./components/Cards.vue";
 import SearchPanel from "./components/SearchPanel.vue";
-import Register from "./views/Register.vue";
+import Footer from "./components/Footer.vue";
 </script>
 
 <style lang="scss">

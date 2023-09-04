@@ -1,7 +1,7 @@
 <template>
   <!-- modal -->
 
-  <Modal size="md" v-if="isShowModal" @close="closeModal">
+  <Modal size="md" v-if="isShowModal" @close="closeModal" class="mt-8">
     <template #header>
       <div class="flex items-center text-lg">
         <h1 class="text-2xl font-bold">Добро пожаловать!</h1>

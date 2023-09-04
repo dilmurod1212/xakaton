@@ -1,0 +1,88 @@
+{
+  "Cards": [
+    {
+      "iamge": "@/assets/images/card-img/Image (1).png",
+      "address": "г. Самарканд",
+      "price": "204 000 000",
+      "title": "Chevrolet Onix 1.2 Turbo в наличии",
+      "id": "1"
+    },
+    {
+      "iamge": "@/assets/images/card-img/Image (2).png",
+      "address": "г. Ташкент",
+      "price": "280 000",
+      "title": "7Saber Trucker Cap",
+      "id": "2"
+    },
+    {
+      "iamge": "@/assets/images/card-img/Image (3).png",
+      "address": "г. Ташкент",
+      "price": "4 820 000",
+      "title": "Оригинальные кроссовки Nike Air Max Plus",
+      "id": "3"
+    },
+    {
+      "iamge": "@/assets/images/card-img/Image (4).png",
+      "address": "г. Ташкент",
+      "price": "4 820 000",
+      "title": "Оригинальные кроссовки Nike Air Max 97",
+      "id": "4"
+    },
+    {
+      "iamge": "@/assets/images/card-img/Image (5).png",
+      "address": "г. Ташкент",
+      "price": "4 500 000",
+      "title": "Apple Watch Series 8 - USA Non active",
+      "id": "5"
+    },
+    {
+      "iamge": "@/assets/images/card-img/Image (6).png",
+      "address": "г. Ташкент",
+      "price": "320 000 000",
+      "title": "Лучший кроссовер Geely Monjaro Limited Edition",
+      "id": "6"
+    },
+    {
+      "iamge": "@/assets/images/card-img/Image (7).png",
+      "address": "г. Ташкент",
+      "price": "5 599 000",
+      "title": "Стайлер для волос Dyson airwrap complete long",
+      "id": "7"
+    },
+    {
+      "iamge": "@/assets/images/card-img/Image (8).png",
+      "address": "г. Ташкент",
+      "price": "280 000",
+      "title": "7Saber Trucker Cap",
+      "id": "8"
+    },
+    {
+      "iamge": "@/assets/images/card-img/Image (9).png",
+      "address": "г. Ташкент",
+      "price": "2 599 000",
+      "title": "Оригинальные кроссовки Nike Air Max Plus",
+      "id": "9"
+    },
+    {
+      "iamge": "@/assets/images/card-img/Image (10).png",
+      "address": "г. Ташкент",
+      "price": "2 599 000",
+      "title": "Chevrolet Onix 1.2 Turbo в наличии",
+      "id": "10"
+    },
+    {
+      "iamge": "@/assets/images/card-img/Image (10).png",
+      "address": "г. Ташкент",
+      "price": "2 599 000",
+      "title": "Кепки Corneliani Diamond for him edition.",
+      "id": "11"
+    },
+    {
+      "iamge": "@/assets/images/card-img/Image (11).png",
+      "address": "г. Ташкент",
+      "price": "2 599 000",
+      "title": "Кепки Corneliani Diamond for him edition.",
+      "id": "12"
+    }
+  ]
+}
