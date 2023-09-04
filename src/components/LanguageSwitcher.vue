@@ -2,14 +2,14 @@
 import { ref } from "vue";
 import { Select } from "flowbite-vue";
 
-let selected = ref("us");
+let selected = ref("ru");
 const countries = [
-  { value: "us", name: "Русский" },
-  { value: "ca", name: "english" },
+  { value: "ru", name: "ru" },
+  { value: "en", name: "en" },
 ];
 </script>
 <template>
-  <div class="w-[120px]">
+  <div class="w-[70px]">
     <Select v-model="selected" :options="countries" />
   </div>
 </template>
