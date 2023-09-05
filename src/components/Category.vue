@@ -1,13 +1,11 @@
 <template>
   <Title text="Категории" :descr="descr" />
-  <div
-    class="categorys container grid grid-cols-3 max-md:grid-cols-1 justify-between gap-10"
-  >
+  <div class="categorys container grid grid-cols-3 max-md:grid-cols-1 gap-10">
     <div
       v-for="el in category"
       class="category relative p-4 border border-gray-400 rounded-lg"
     >
-      <div class="">
+      <div>
         <img
           src="@/assets/images/category-icons/Component1(20).svg"
           alt="male-icon"
@@ -61,6 +59,6 @@ const categoryList = reactive([...category]);
 //   }
 // }
 .container {
-  max-width: 90%;
+  max-width: 80%;
 }
 </style>

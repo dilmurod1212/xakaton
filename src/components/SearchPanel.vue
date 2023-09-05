@@ -1,6 +1,5 @@
 <template>
   <div class="container">
-    <h1>{{ store.count }}</h1>
 
     <div
       class="flex max-md:gap-4 justify-between items-center w-4/6 max-md:w-full m-auto p-4 max-md:p-2 bg-gray-100 rounded-lg border border-gray-400 my-4"
